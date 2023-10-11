@@ -22,7 +22,7 @@
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.31",
     "prettier": "^3.0.0",
-    "tsup": "^5.12.7",
+    "tsup": "^7.0.0",
     "typescript": "^5.0.0"
   },
   "homepage": "https://github.com/upstash/feedback#readme",
