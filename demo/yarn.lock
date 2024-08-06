@@ -146,7 +146,7 @@ arg@^5.0.1:
   integrity sha512-e0hDa9H2Z9AwFkk2qDlwhoMYE4eToKarchkQHovNdLTCYMHZHeRjI71crOh+dio4K6u1IcwubQqo79Ga4CyAQA==
 
 autoprefixer@^10.4.7:
-  version "10.4.16"
+  version "10.4.20"
   dependencies:
     browserslist "^4.20.3"
     caniuse-lite "^1.0.30001335"
