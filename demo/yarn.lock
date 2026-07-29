@@ -512,13 +512,13 @@ quick-lru@^5.1.1:
   integrity sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA==
 
 react-dom@^18.1.0:
-  version "18.2.0"
+  version "18.3.1"
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.22.0"
 
 react@^18.1.0:
-  version "18.2.0"
+  version "18.3.1"
   dependencies:
     loose-envify "^1.1.0"
 
